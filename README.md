@@ -1,4 +1,4 @@
-# Hi there, welcome to my GitHub Profile! I'm [Your Name] 👋
+# Hi there, welcome to my GitHub Profile! I'm Pansani 👋
 
 I'm a junior Software Engineer with a passion for full stack development and infrastructure. I enjoy writing clean and efficient code in Python, building scalable web applications with TypeScript, and creating performant systems with Go.
 
