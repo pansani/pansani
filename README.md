@@ -10,9 +10,8 @@ Reach me through:
 
 ## Technologies I Use
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![HTMX](https://img.shields.io/badge/-HTMX-black?style=flat-square&logo=htmx)
 
 ## Most Used Languages
 
