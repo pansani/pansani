@@ -12,7 +12,5 @@ Reach me through:
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![HTMX](https://img.shields.io/badge/-HTMX-black?style=flat-square&logo=htmx)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
-## My GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pansani&theme=react-dark&hide_border=true&area=true)
