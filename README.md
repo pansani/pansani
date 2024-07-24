@@ -13,6 +13,6 @@ Reach me through:
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![HTMX](https://img.shields.io/badge/-HTMX-black?style=flat-square&logo=htmx)
 
-## Most Used Languages
+## My GitHub Activity
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pansani&layout=compact&theme=react)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pansani&theme=react-dark&hide_border=true&area=true)
