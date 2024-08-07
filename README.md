@@ -14,3 +14,7 @@ Reach me through:
 ![HTMX](https://img.shields.io/badge/-HTMX-black?style=flat-square&logo=htmx)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PANSANI&layout=compact&theme=radical)
+
