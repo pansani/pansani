@@ -1,6 +1,6 @@
 # Hi there, welcome to my GitHub Profile! I'm Pansani 👋
 
-I'm a junior Software Engineer from Brazil. I specialize in building scalable web applications with React, Typescript and HTMX. Also, I have a strong knowledge on building performant systems with Go and Laravel ensuring efficient and robust backend solutions.
+I'm a junior Software Engineer from Brazil. I specialize in building scalable web applications with React, Typescript, HTML and Tailwind. Also, I have a strong knowledge on building performant systems with Go and Laravel ensuring efficient and robust backend solutions.
 ## Contact Me
 
 Reach me through:
